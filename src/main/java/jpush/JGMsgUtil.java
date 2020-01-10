@@ -169,7 +169,7 @@ public class JGMsgUtil {
 
 		//rabbitmq("");
 
-		sendMsg(null,null,"test1",1,null);
+		//sendMsg(null,null,"test1d",1,null);
 
 	}
 
