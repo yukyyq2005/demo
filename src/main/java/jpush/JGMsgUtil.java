@@ -6,6 +6,7 @@ import java.util.ResourceBundle;
 
 //import org.apache.commons.lang.StringUtils;
 //import org.apache.poi.ss.usermodel.WorkbookFactory;
+import com.example.demo2.pay.PayUtils;
 import com.example.demo2.qn.PropertiesUtil;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -165,6 +166,10 @@ public class JGMsgUtil {
 
 	public static void main(String[] args) {
 
+		PayUtils pay = new PayUtils();
+		pay.pay("1",0.02,1,"1","d");
+
+		System.out.println("ddd");
 //		 sendMsg(null,null,"推送测试数据");
 
 		//rabbitmq("");

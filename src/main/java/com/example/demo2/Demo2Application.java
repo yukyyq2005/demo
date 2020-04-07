@@ -76,24 +76,24 @@ import org.springframework.web.servlet.DispatcherServlet;
 //import com.example.demo1.demo.*;
 
 //打jar包，还需要修改pom.xml文件的<packaging>jar</packaging>
-//@SpringBootApplication
-//public class Demo2Application{
-//	public static void main(String[] args) {
-//		SpringApplication.run(Demo2Application.class, args);
-//	}
-//}
-
-//打war包，还需要修改pom.xml文件的<packaging>war</packaging>
 @SpringBootApplication
-public class Demo2Application extends SpringBootServletInitializer {
-
+public class Demo2Application{
 	public static void main(String[] args) {
 		SpringApplication.run(Demo2Application.class, args);
 	}
-
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return builder.sources(Demo2Application.class);
-	}
 }
+
+//打war包，还需要修改pom.xml文件的<packaging>war</packaging>
+//@SpringBootApplication
+//public class Demo2Application extends SpringBootServletInitializer {
+//
+//	public static void main(String[] args) {
+//		SpringApplication.run(Demo2Application.class, args);
+//	}
+//
+//	@Override
+//	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+//		return builder.sources(Demo2Application.class);
+//	}
+//}
 

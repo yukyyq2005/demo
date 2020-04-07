@@ -2,12 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbcb22a5-6785-4945-a7c1-77c6262c79ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demo2.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/.idea/pay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/HttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/MD5Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/pay/PayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demo2_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/demo2_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demo2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/Demo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/Demo2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/qn/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/qn/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/qn/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/qn/PropertiesUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jpush/JGMsgUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpush/JGMsgUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/Demo2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/Demo2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo2/qn/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jpush/JGMsgUtil$Platforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpush/JGMsgUtil$Platforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jpush/JGMsgUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpush/JGMsgUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jpush/JPushHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpush/JPushHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jpush/PropertiesConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpush/PropertiesConfig.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,46 +42,8 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jpush/JGMsgUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jpush/JPushHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jpush/PropertiesConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/jpush/JGMsgUtil.java" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -70,6 +57,11 @@
       <MavenGeneralSettings>
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
@@ -151,95 +143,39 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="23" />
-    <option name="width" value="1254" />
-    <option name="height" value="904" />
+  <component name="ProjectId" id="1ZRNFJvvMHkJHetYXClaa9FJdBj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="qn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jpush" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../signature-master/signature" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\demo2\src\main\java\com\example\demo2\pay" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.JGMsgUtil">
+  <component name="RunManager" selected="Spring Boot.Demo2Application">
     <configuration name="JGMsgUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jpush.JGMsgUtil" />
       <module name="demo2" />
@@ -253,6 +189,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo2 [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo2.Demo2Application" />
@@ -262,9 +223,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Maven.demo2 [package]" />
         <item itemvalue="Application.JGMsgUtil" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -277,113 +251,108 @@
       <option name="presentableId" value="Default" />
       <updated>1578643216846</updated>
       <workItem from="1578643219662" duration="293000" />
+      <workItem from="1584797846593" duration="1037000" />
+      <workItem from="1584798903859" duration="2675000" />
+      <workItem from="1584802478781" duration="1711000" />
+      <workItem from="1584840789078" duration="1655000" />
+      <workItem from="1584842473299" duration="6553000" />
+      <workItem from="1585147590883" duration="2714000" />
+      <workItem from="1585225929925" duration="251000" />
+      <workItem from="1586249406576" duration="519000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1254" height="904" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2830033" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32944608" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.23067173" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/jpush/PropertiesConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jpush/JPushHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jpush/JGMsgUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="714" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585148464358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585148464358" />
+    <state x="754" y="273" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584798321440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="273" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584798321440" />
+    <state width="450" height="466" key="DebuggerActiveHint" timestamp="1584848115148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1584848115148" />
+    <state x="1040" y="242" key="FileChooserDialogImpl" timestamp="1585226017513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585226017513" />
+    <state width="1227" height="173" key="GridCell.Tab.0.bottom" timestamp="1585226179931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585226179931" />
+    <state width="1227" height="173" key="GridCell.Tab.0.center" timestamp="1585226179931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585226179931" />
+    <state width="1227" height="173" key="GridCell.Tab.0.left" timestamp="1585226179931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585226179931" />
+    <state width="1227" height="173" key="GridCell.Tab.0.right" timestamp="1585226179931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585226179931" />
+    <state width="1227" height="370" key="GridCell.Tab.1.bottom" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.1.center" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.1.left" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.1.right" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.2.bottom" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.2.center" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.2.left" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state width="1227" height="370" key="GridCell.Tab.2.right" timestamp="1585151188402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1227" height="370" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585151188402" />
+    <state x="523" y="140" key="Maven.ArtifactSearchDialog" timestamp="1584798997476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="523" y="140" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584798997476" />
+    <state x="491" y="32" key="SettingsEditor" timestamp="1584798157837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="32" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584798157837" />
+    <state x="852" y="220" key="Vcs.Push.Dialog.v2" timestamp="1585147745492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="852" y="220" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585147745492" />
+    <state width="827" height="474" key="XDebugger.FullValuePopup" timestamp="1584802875078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="827" height="474" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1584802875078" />
+    <state x="553" y="164" width="786" height="600" key="find.popup" timestamp="1584799509448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="164" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584799509448" />
+    <state x="564" y="113" key="new project wizard" timestamp="1585149472269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="113" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585149472269" />
   </component>
 </project>

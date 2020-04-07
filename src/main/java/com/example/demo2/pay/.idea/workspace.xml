@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e323f9b-92bf-44f0-8d33-fc20aeb316f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD5Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/artifacts/demo2_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/artifacts/demo2_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/artifacts/demo2_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../demo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../demo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qn/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../qn/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qn/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../qn/PropertiesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../jpush/JGMsgUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../jpush/JGMsgUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/Demo2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/Demo2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/example/demo2/qn/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JGMsgUtil$Platforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JGMsgUtil$Platforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JGMsgUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JGMsgUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JPushHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/JPushHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/PropertiesConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/jpush/PropertiesConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1ZcorTnbkNwov7BFS5heQleE0sN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e323f9b-92bf-44f0-8d33-fc20aeb316f4" name="Default Changelist" comment="" />
+      <created>1585147941150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585147941150</updated>
+      <workItem from="1585147942533" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -20,7 +20,7 @@ public class PropertiesUtil {
 //					+ "/conf.properties";
 					+ "/conf/rabbit.properties";
 
-			System.out.print("classPath:"+classPath);
+			System.out.println("classPath:"+classPath);
 			prop = new Properties();
 			prop.load(new FileInputStream(new File(classPath)));
 		} catch (Exception e) {
